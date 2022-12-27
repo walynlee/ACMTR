@@ -6,5 +6,5 @@ Parts of codes are borrowed from [nnFormer](https://github.com/282857341/nnForme
 ## Training
 python ./nnformer/run/run_training.py 3d_fullres nnFormerTrainerV2_PelvicTumour 11 0
 
-## Eval
+## Val
 python ./nnformer/run/run_training.py 3d_fullres nnFormerTrainerV2_PelvicTumour 11 0 -val
