@@ -3,3 +3,8 @@ Code for paper “ACMTR: Attention-guided, combined multi-scale, transformer rea
 
 Parts of codes are borrowed from [nnFormer](https://github.com/282857341/nnFormer).
 
+## Training
+python ./nnformer/run/run_training.py 3d_fullres nnFormerTrainerV2_PelvicTumour 11 0
+
+## Eval
+python ./nnformer/run/run_training.py 3d_fullres nnFormerTrainerV2_PelvicTumour 11 0 -val
