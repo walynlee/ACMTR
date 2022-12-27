@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96d7fef6-c700-400a-8c01-11f0b1becab6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/network_architecture/Score-CAM/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_architecture/Score-CAM/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_architecture/Score-CAM/cam/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_architecture/Score-CAM/cam/basecam.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_architecture/Score-CAM/cam/scorecam.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_architecture/Score-CAM/images/ILSVRC2012_val_00000057.JPEG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_architecture/Score-CAM/images/ILSVRC2012_val_00000073.JPEG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_architecture/Score-CAM/images/ILSVRC2012_val_00000091.JPEG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_architecture/Score-CAM/images/ILSVRC2012_val_00000198.JPEG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_architecture/Score-CAM/images/ILSVRC2012_val_00000247.JPEG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_architecture/Score-CAM/images/ILSVRC2012_val_00000476.JPEG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_architecture/Score-CAM/images/ILSVRC2012_val_00000518.JPEG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_architecture/Score-CAM/images/ILSVRC2012_val_00000562.JPEG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_architecture/Score-CAM/images/ILSVRC2012_val_00002193.JPEG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_architecture/Score-CAM/pics/comparison.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_architecture/Score-CAM/pics/pipeline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_architecture/Score-CAM/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_architecture/Score-CAM/utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_architecture/Score-CAM/utils/energyPointGame.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_architecture/Score-CAM/utils/imagenet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_architecture/Score-CAM/utils/resources/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_architecture/Score-CAM/utils/resources/imagenet_class_index.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Score-CAM" />
+  </component>
+  <component name="ProjectId" id="26hRKiBW653LKYDN6z1bK6C8tvf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Pelvic_Segmentation" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.Myvis">
+    <configuration name="Myvis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="nnformer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/network_architecture" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/network_architecture/Myvis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="getpic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="nnformer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/network_architecture" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/network_architecture/getpic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="heatmap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="nnformer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/network_architecture" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/network_architecture/heatmap.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Myvis" />
+        <item itemvalue="Python.heatmap" />
+        <item itemvalue="Python.getpic" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96d7fef6-c700-400a-8c01-11f0b1becab6" name="Changes" comment="" />
+      <created>1647873769845</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647873769845</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
